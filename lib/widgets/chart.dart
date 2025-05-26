@@ -1,0 +1,1 @@
+// Árfolyam grafikon
